@@ -6,6 +6,7 @@ A repo containing all the stuff ECE stuff I need. Categories is not definite yet
 - [Websites](#websites)
 - [Transistors](#transistors)
 - [Interfaces](#interfaces)
+- [Software Tools](#software-tools)
 
 ## Books & Physical Material
 The abbreviations are shown in [], which one shall see across the list
@@ -36,4 +37,9 @@ The abbreviations are shown in [], which one shall see across the list
 
 ### USB
 
-## TI Tutorials
+## Software Tools
+- Altium Youtube Videos:
+  - [Best refresher](https://www.youtube.com/watch?v=Y7PY1nBtImk)
+  - [Process specific playlist](https://www.youtube.com/watch?v=TTr7_SN2b8Y&list=PL8F4DA35708A12E06)
+  - [The University of Queensland](https://www.youtube.com/channel/UCOlRRMpgVVtVi4ZxmSMQMFA/videos)
+  
