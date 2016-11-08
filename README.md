@@ -26,7 +26,10 @@ The abbreviations are shown in [], which one shall see across the list
 
 
 ### I2C
-- [Calcuating I2C Pull-up resistor value](http://www.ti.com/lit/an/slva689/slva689.pdf)
+- [I2C Specs](http://www.nxp.com/documents/user_manual/UM10204.pdf)
+  - [ ] List sections within document
+- [Calcuating I2C Pull-up Resistor Value](http://www.ti.com/lit/an/slva689/slva689.pdf)
+
 
 ### SPI
 
