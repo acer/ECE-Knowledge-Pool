@@ -9,7 +9,7 @@ A repo containing all the stuff ECE stuff I need. Categories is not definite yet
 
 ## Books & Physical Material
 The abbreviations are shown in [], which one shall see across the list
-- The Art of Electronics [tAoE]
+- The Art of Electronics 3rd Ed. [tAoE]
 - Notes taken at class [ECEXXX]
 
 ## Websites
