@@ -3,7 +3,7 @@ A repo containing all the stuff ECE stuff I need. Categories is not definite yet
 
 ## Section Links
 - [Websites](#websites)
-- [Books](#books-&-physical-material)
+- [Books & Physical Material](#books--physical-material)
 
 ## Books & Physical Material
 The abbreviations are shown in [], which one shall see across the list
