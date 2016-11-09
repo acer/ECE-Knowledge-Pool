@@ -1,5 +1,9 @@
 # ECE Knowledge Pool
-A repo containing all the stuff ECE stuff I need. Categories is not definite yet, until I have more stuff to come by. This list is made for more personal use than made for the general public so some stuff might be weird or oddly specific. Ones without links are either 1)trying to look for one on that certain topic 2)lost the link 3)(shrugs. Pull requests are welcome but no guarantees. Just sayin'.
+A repo containing all the stuff ECE stuff I need. Categories is not definite yet, until I have more stuff to come by. This list is made for more personal use than made for the general public so some stuff might be weird or oddly specific. 
+
+Ones without links are either 1)trying to look for one on that certain topic 2)lost the link 3)(shrugs. 
+
+Pull requests are welcome but no guarantees. Just sayin'.
 
 ## Section Links
 - [Books & Physical Material](#books--physical-material)
