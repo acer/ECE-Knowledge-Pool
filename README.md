@@ -10,6 +10,7 @@ Pull requests are welcome but no guarantees. Just sayin'.
 - [Websites](#websites)
 - [Transistors](#transistors)
 - [Interfaces](#interfaces)
+- [3-phase Systems](#3--phase-systems)
 - [Software Tools](#software-tools)
 
 ## Books & Physical Material
@@ -47,3 +48,7 @@ The abbreviations are shown in [], which one shall see across the list
   - [Process specific playlist](https://www.youtube.com/watch?v=TTr7_SN2b8Y&list=PL8F4DA35708A12E06)
   - [The University of Queensland](https://www.youtube.com/channel/UCOlRRMpgVVtVi4ZxmSMQMFA/videos)
   
+## 3-phase Systems
+### Synchronous Motors
+- [Lecture Slides, Lamar University](http://doctord.dyndns.org/Courses/Textbooks/Chapman/Lecture%2007%20-%20Synchronous%20machines.pdf)
+  - Sync Motor with different loads, p.19
