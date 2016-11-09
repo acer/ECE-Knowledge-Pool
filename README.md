@@ -10,7 +10,7 @@ Pull requests are welcome but no guarantees. Just sayin'.
 - [Websites](#websites)
 - [Transistors](#transistors)
 - [Interfaces](#interfaces)
-- [3-phase Systems](#3--phase-systems)
+- [3-phase Systems](#3-phase-systems)
 - [Software Tools](#software-tools)
 
 ## Books & Physical Material
