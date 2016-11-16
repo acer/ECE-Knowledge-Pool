@@ -8,9 +8,13 @@ Pull requests are welcome but no guarantees. Just sayin'.
 ## Section Links
 - [Books & Physical Material](#books--physical-material)
 - [Websites](#websites)
+- [General EE](#general-ee)
+
+The list continues in alphabetical order
 - [3-phase Systems](#3-phase-systems)
 - [Control Theory](#control-theory)
 - [Interfaces](#interfaces)
+- [Op Amps](#op-amps)
 - [Software Tools](#software-tools)
 - [Transistors](#transistors)
 
@@ -26,7 +30,9 @@ The abbreviations are shown in [], which one shall see across the list
 - [Articles about Electricity](http://amasci.com/ele-edu.html) - Clarification on misconceptions across EE stuff, [HN](https://news.ycombinator.com/item?id=12894192) thread here
 
 ## Transistors
-- NMOS PMOS
+- [ ]NMOS PMOS
+- [ ]BJTs
+- [ ]Transistor configs (Common Emiter, Common Gate, etc)
 
 
 ## Interfaces
@@ -55,3 +61,5 @@ The abbreviations are shown in [], which one shall see across the list
   - Sync Motor with different loads, p.19
   
 ## Control Theory
+
+## Op Amps
