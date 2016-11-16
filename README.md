@@ -12,6 +12,7 @@ Pull requests are welcome but no guarantees. Just sayin'.
 
 The list continues in alphabetical order
 - [3-phase Systems](#3-phase-systems)
+- [Analog/Digital Converter]
 - [Control Theory](#control-theory)
 - [Interfaces](#interfaces)
 - [Op Amps](#op-amps)
@@ -34,6 +35,9 @@ The abbreviations are shown in [], which one shall see across the list
 - [Lecture Slides, Lamar University](http://doctord.dyndns.org/Courses/Textbooks/Chapman/Lecture%2007%20-%20Synchronous%20machines.pdf)
   - Sync Motor with different loads, p.19
   
+## Analog/ Digital Converter
+- [Glossary of common terms](https://www.maximintegrated.com/en/app-notes/index.mvp/id/641)
+
 ## Control Theory
 
 ## Interfaces
