@@ -8,10 +8,11 @@ Pull requests are welcome but no guarantees. Just sayin'.
 ## Section Links
 - [Books & Physical Material](#books--physical-material)
 - [Websites](#websites)
-- [Transistors](#transistors)
-- [Interfaces](#interfaces)
 - [3-phase Systems](#3-phase-systems)
+- [Control Theory](#control-theory)
+- [Interfaces](#interfaces)
 - [Software Tools](#software-tools)
+- [Transistors](#transistors)
 
 ## Books & Physical Material
 The abbreviations are shown in [], which one shall see across the list
