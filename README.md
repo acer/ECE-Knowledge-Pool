@@ -52,3 +52,5 @@ The abbreviations are shown in [], which one shall see across the list
 ### Synchronous Motors
 - [Lecture Slides, Lamar University](http://doctord.dyndns.org/Courses/Textbooks/Chapman/Lecture%2007%20-%20Synchronous%20machines.pdf)
   - Sync Motor with different loads, p.19
+  
+## Control Theory
