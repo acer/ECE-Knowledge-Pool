@@ -29,32 +29,6 @@ The abbreviations are shown in [], which one shall see across the list
 ## General EE
 - [Articles about Electricity](http://amasci.com/ele-edu.html) - Clarification on misconceptions across EE stuff, [HN](https://news.ycombinator.com/item?id=12894192) thread here
 
-## Transistors
-- [ ]NMOS PMOS
-- [ ]BJTs
-- [ ]Transistor configs (Common Emiter, Common Gate, etc)
-
-
-## Interfaces
-
-
-### I2C
-- [I2C Specs](http://www.nxp.com/documents/user_manual/UM10204.pdf)
-  - [ ] List sections within document
-- [Calcuating I2C Pull-up Resistor Value](http://www.ti.com/lit/an/slva689/slva689.pdf)
-
-
-### SPI
-
-
-### USB
-
-## Software Tools
-- Altium Youtube Videos:
-  - [Best refresher](https://www.youtube.com/watch?v=Y7PY1nBtImk)
-  - [Process specific playlist](https://www.youtube.com/watch?v=TTr7_SN2b8Y&list=PL8F4DA35708A12E06)
-  - [The University of Queensland](https://www.youtube.com/channel/UCOlRRMpgVVtVi4ZxmSMQMFA/videos)
-  
 ## 3-phase Systems
 ### Synchronous Motors
 - [Lecture Slides, Lamar University](http://doctord.dyndns.org/Courses/Textbooks/Chapman/Lecture%2007%20-%20Synchronous%20machines.pdf)
@@ -62,4 +36,25 @@ The abbreviations are shown in [], which one shall see across the list
   
 ## Control Theory
 
+## Interfaces
+### I2C
+- [I2C Specs](http://www.nxp.com/documents/user_manual/UM10204.pdf)
+  - [ ] List sections within document
+- [Calcuating I2C Pull-up Resistor Value](http://www.ti.com/lit/an/slva689/slva689.pdf)
+
+### SPI
+
+### USB
+
 ## Op Amps
+
+## Software Tools
+- Altium Youtube Videos:
+  - [Best refresher](https://www.youtube.com/watch?v=Y7PY1nBtImk)
+  - [Process specific playlist](https://www.youtube.com/watch?v=TTr7_SN2b8Y&list=PL8F4DA35708A12E06)
+  - [The University of Queensland](https://www.youtube.com/channel/UCOlRRMpgVVtVi4ZxmSMQMFA/videos)
+  
+## Transistors
+- [ ] NMOS PMOS
+- [ ] BJTs
+- [ ] Transistor configs (Common Emiter, Common Gate, etc)
