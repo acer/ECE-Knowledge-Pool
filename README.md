@@ -29,6 +29,7 @@ The abbreviations are shown in [], which one shall see across the list
 
 ## General EE
 - [Articles about Electricity](http://amasci.com/ele-edu.html) - Clarification on misconceptions across EE stuff, [HN](https://news.ycombinator.com/item?id=12894192) thread here
+- [Circuit Analysis Refresher](http://imgur.com/a/kCt5O) - Also [RLC and phasor/AC](https://i.imgur.com/Y3Nj8wZ.jpg), taken from [reddit thread](https://www.reddit.com/r/ECE/comments/5dtt6p/intro_to_ece_toolbox_of_equations_and_concepts/)
 
 ## 3-phase Systems
 ### Synchronous Motors
