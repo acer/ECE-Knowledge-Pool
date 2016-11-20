@@ -70,3 +70,4 @@ The abbreviations are shown in [], which one shall see across the list
 ### Design
 - [Why the MacBook Pro is limited to 16GB of RAM](https://macdaddy.io/macbook-pro-limited-16gb-ram/) - Design choice over CPU/RAM/power
   - [More explanation on DDR power consumption (reddit)](https://www.reddit.com/r/hardware/comments/5dimal/lpddr3_vs_ddr4_power_usage/)
+- Oneplus Dash Charger - Some [discussion thread](https://forums.oneplus.net/threads/what-is-the-oneplus-3-dash-charging-sync-cable-doing-internally-lets-probe-it.456017/) and [cable teardown](http://www.chongdiantou.com/wp/archives/1672.html)
