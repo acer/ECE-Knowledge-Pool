@@ -19,6 +19,8 @@ The list continues in alphabetical order
 - [Software Tools](#software-tools)
 - [Transistors](#transistors)
 
+- [Interesting Stuff](#interesting-stuff)
+
 ## Books & Physical Material
 The abbreviations are shown in [], which one shall see across the list
 - The Art of Electronics 3rd Ed. [tAoE]
@@ -63,3 +65,7 @@ The abbreviations are shown in [], which one shall see across the list
 - [ ] NMOS PMOS
 - [ ] BJTs
 - [ ] Transistor configs (Common Emiter, Common Gate, etc)
+
+## Interesting Stuff
+### Design
+- [Why the MacBook Pro is limited to 16GB of RAM](https://macdaddy.io/macbook-pro-limited-16gb-ram/) - Design choice over CPU/RAM/power
