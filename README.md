@@ -69,3 +69,4 @@ The abbreviations are shown in [], which one shall see across the list
 ## Interesting Stuff
 ### Design
 - [Why the MacBook Pro is limited to 16GB of RAM](https://macdaddy.io/macbook-pro-limited-16gb-ram/) - Design choice over CPU/RAM/power
+  - [More explanation on DDR power consumption (reddit)](https://www.reddit.com/r/hardware/comments/5dimal/lpddr3_vs_ddr4_power_usage/)
