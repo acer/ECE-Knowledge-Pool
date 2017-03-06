@@ -19,6 +19,8 @@ The list continues in alphabetical order
 - [Op Amps](#op-amps)
 - [Software Tools](#software-tools)
 - [Transistors](#transistors)
+
+
 - [Interesting Stuff](#interesting-stuff)
 
 ## Books & Physical Material
