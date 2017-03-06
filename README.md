@@ -20,7 +20,7 @@ The list continues in alphabetical order
 - [Software Tools](#software-tools)
 - [Transistors](#transistors)
 
-
+Misc
 - [Interesting Stuff](#interesting-stuff)
 
 ## Books & Physical Material
