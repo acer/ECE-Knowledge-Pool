@@ -76,3 +76,4 @@ The abbreviations are shown in [], which one shall see across the list
 
 ## Design Choices
 - [Managing Inrush Current](http://www.ti.com/lit/an/slva670a/slva670a.pdf)
+- [Capacitor characteristic](http://ksim.kemet.com/)
