@@ -78,3 +78,4 @@ The abbreviations are shown in [], which one shall see across the list
 - [Managing Inrush Current](http://www.ti.com/lit/an/slva670a/slva670a.pdf)
 - [Capacitor characteristic](http://ksim.kemet.com/)
 - [Understanding Temperature Specification](http://www.cypress.com/file/38656/download)
+- [Choosing the Correct Switch, Multiplexer, or Protection Product for Your Application](http://www.analog.com/media/en/news-marketing-collateral/product-selection-guide/Choosing_Switches_or_Muxes.pdf)
