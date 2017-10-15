@@ -79,3 +79,10 @@ The abbreviations are shown in [], which one shall see across the list
 - [Capacitor characteristic](http://ksim.kemet.com/)
 - [Understanding Temperature Specification](http://www.cypress.com/file/38656/download)
 - [Choosing the Correct Switch, Multiplexer, or Protection Product for Your Application](http://www.analog.com/media/en/news-marketing-collateral/product-selection-guide/Choosing_Switches_or_Muxes.pdf)
+
+## Software
+### C
+- [The Definitive C Book Guide and List](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list)
+
+### Python
+
