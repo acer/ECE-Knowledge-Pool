@@ -56,6 +56,7 @@ The abbreviations are shown in [], which one shall see across the list
 ### USB
 
 ## Op Amps
+- [Op Amps for Everyone (TI)](http://web.mit.edu/6.101/www/reference/op_amps_everyone.pdf)
 
 ## Software Tools
 - Altium Youtube Videos:
