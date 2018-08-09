@@ -72,7 +72,7 @@ The abbreviations are shown in [], which one shall see across the list
 
 ## Tools and Equipment
 ### Vector Network Analyzer (VNA)
-  - [What is a Vector Network Analyzer and how does it work?](https://www.tek.com/document/primer/what-vector-network-analyzer-and-how-does-it-work) (Read the downloadable PDF)
+  - [[PDF] What is a Vector Network Analyzer and how does it work?](http://download.tek.com/document/70W_60918_0_Tek_VNA_PR1.pdf) - VNA Fundamentals
 
 ## Interesting Stuff
 ### Design
