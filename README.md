@@ -71,6 +71,8 @@ The abbreviations are shown in [], which one shall see across the list
 - [ ] Transistor configs (Common Emiter, Common Gate, etc)
 
 ## Tools and Equipment
+### Spectrum Analyzer
+  - [[PDF] Fundamentals of Realtime Spectrum Analysis](http://download.tek.com/document/37W_17249_6_Fundamentals_of_RealTime_Spectrum_Analysis_0.pdf)
 ### Vector Network Analyzer (VNA)
   - [[PDF] What is a Vector Network Analyzer and how does it work?](http://download.tek.com/document/70W_60918_0_Tek_VNA_PR1.pdf) - VNA Fundamentals
 
