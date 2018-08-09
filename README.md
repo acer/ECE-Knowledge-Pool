@@ -18,6 +18,7 @@ The list continues in alphabetical order
 - [Interfaces](#interfaces)
 - [Op Amps](#op-amps)
 - [Software Tools](#software-tools)
+- [Tools and Equipment] (#tools-and-equipment)
 - [Transistors](#transistors)
 
 Misc
@@ -68,6 +69,10 @@ The abbreviations are shown in [], which one shall see across the list
 - [ ] NMOS PMOS
 - [ ] BJTs
 - [ ] Transistor configs (Common Emiter, Common Gate, etc)
+
+## Tools and Equipment
+### Vector Network Analyzer (VNA)
+  - [What is a Vector Network Analyzer and how does it work?](https://www.tek.com/document/primer/what-vector-network-analyzer-and-how-does-it-work) (Read the downloadable PDF)
 
 ## Interesting Stuff
 ### Design
