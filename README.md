@@ -18,7 +18,7 @@ The list continues in alphabetical order
 - [Interfaces](#interfaces)
 - [Op Amps](#op-amps)
 - [Software Tools](#software-tools)
-- [Tools and Equipment] (#tools-and-equipment)
+- [Tools and Equipment](#tools-and-equipment)
 - [Transistors](#transistors)
 
 Misc
